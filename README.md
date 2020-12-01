@@ -1,13 +1,13 @@
 # Team Name: Morin
 Members: 
-|![Jade](assets/member1.webp?raw=true) |![member2](assets/member2.webp?raw=true)  |
+|![member1](assets/member1.webp?raw=true) |![member2](assets/member2.webp?raw=true)  |
 |--|--|
-|  [Member 1](https://github.com/username) <br> a short description of her responsiblity ...| [Member 2 ](https://github.com/username) <br> a short description of his responsiblity ... |
+|  [Jade](https://github.com/whateverusernam) <br> Responsability on the project : well... apparently, everything !
 
 
 
-# Project Title: bla bla
- **Description**: bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
+# Project Title: Connected Alarm clock
+ **Description**: My project is to make a connected alarm clock. There would be an interface, probably a website, for the user to choose at what time he wants to wake up.
  
 [Click here for more information about the project](project) 
 
