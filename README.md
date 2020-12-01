@@ -1,6 +1,7 @@
 # Team Name: Morin
 
 ![member1](assets/member1.webp?raw=true)
+
 Member :
 [Jade](https://github.com/whateverusernam) <br> Responsability on the project : well... apparently, everything !
 
