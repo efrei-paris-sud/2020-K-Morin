@@ -1,27 +1,24 @@
+## Exercise 2 
+The goal of the second exercise was to make the led flash.
 
-
-# Exercise 2 
-A breif description of the goal of this exercise.
-
-## Schematic 
-![Test Image](photo.png?raw=true)
+A gif of my assemblage is joined in the folder.
 
 ## Code
- ```Arduino
-void setup(){
-  ....
+
+int led = 6;
+
+void setup() {
+  pinMode(led, OUTPUT);
+
 }
 
-void loop(){
-  ....
+void loop() {
+  digitalWrite(led, HIGH);
+  delay(1000);
+  digitalWrite(led, LOW);
+  delay(1000);
 }
-```
   
-## Board Image
-![Board](Arduino_LED.gif?raw=true)
 
-To make a gif you can use [ezgif](https://ezgif.com/maker).
 ## Issues
-- bla bla
-- bla bla
-- bla bla
+The issues I had with this exercise were that for some reason, my computer could not detect my board correctly. So i changed my board and it fixed the problem.

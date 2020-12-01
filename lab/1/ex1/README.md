@@ -1,27 +1,9 @@
+Exercise 1 
+Int he first exercise, I had to light the led.
 
-
-# Exercise 1 
-A breif description of the goal of this exercise.
-
-## Schematic 
-![Test Image](photo.png?raw=true)
+There is a picture of my assemblage, but the led is willingly turned off, because otherwise we could not see anything because of the light.
 
 ## Code
- ```Arduino
-void setup(){
-  ....
-}
+No code was necessary for this ecercise
 
-void loop(){
-  ....
-}
-```
-  
-## Board Image
-![Board](Arduino_LED.gif?raw=true)
-
-To make a gif you can use [ezgif](https://ezgif.com/maker).
-## Issues
-- bla bla
-- bla bla
-- bla bla
+I did not get issues for this exercise.
