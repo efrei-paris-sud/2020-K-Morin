@@ -3,12 +3,14 @@
 ![member1](assets/member1.webp?raw=true)
 
 Member :
-[Jade](https://github.com/whateverusernam) <br> Responsability on the project : well... apparently, everything !
+[Jade](https://github.com/whateverusernam) <br>
 
 
 
-# Project Title: Connected Alarm clock
- **Description**: My project is to make a connected alarm clock. There would be an interface, probably a website, for the user to choose at what time he wants to wake up.
+# Project Title: Connected Alarm clock : Sleep guide for the youngest
+ **Description**: My project is to make a connected alarm clock targeted at the youngest. The idea is for the children to learn how to manage his sleep and his awakening, to teach him sleep routines by programmming the hours during which he must sleep and the time at which he must go to bed, according to the time at which the child must wake up. When it comes time to wake up, we could combine features such as music streaming, lullabies to gently wake the child up. With sound sensors, we could identify the times when the child wakes up during the night, or if noises disturb him during his sleep.
+With temperature sensors, we could monitor the temperature in the child's room and thus analyze the factors that could disturb the child's sleep.
+ 
  
 [Click here for more information about the project](project) 
 
